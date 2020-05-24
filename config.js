@@ -3,7 +3,7 @@ var config = {
 //header and title//
 
 	style:  'mapbox://styles/aierie/ckakw9ka21zwx1imm3zr4dkqv',
-	accessToken: 'pk.eyJ1IjoiYWllcmllIiwiYSI6ImNrYWt4cnEwZDBsNm4ycm82MXQ0b3czYjUifQ.XQi76lDMU4j_DEgEsM1z3A',
+	accessToken: 'pk.eyJ1IjoiYWllcmllIiwiYSI6ImNrYWt5Y2F0ZjBsZ20ycW82ODBtNzk0djUifQ.XTQ707DaE7bHNr6y2qYn1A',
 	showMarkers: false,
 	theme: 'dark',
 	alignment: '',
