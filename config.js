@@ -2,8 +2,8 @@ var config = {
 
 //header and title//
 
-	style: 'mapbox://styles/aierie/ckakw9ka21zwx1imm3zr4dkqv',
-	accessToken: 'pk.eyJ1IjoiYWllcmllIiwiYSI6ImNrYWt2a2wzdjA0NHUyeW5xaWdzcDJyZjIifQ.ZzhVFiuXDdFlt8VqnC_Y3g',
+	style:  'mapbox://styles/aierie/ckakw9ka21zwx1imm3zr4dkqv',
+	accessToken: 'pk.eyJ1IjoiYWllcmllIiwiYSI6ImNrYWt4cnEwZDBsNm4ycm82MXQ0b3czYjUifQ.XQi76lDMU4j_DEgEsM1z3A',
 	showMarkers: false,
 	theme: 'dark',
 	alignment: '',
